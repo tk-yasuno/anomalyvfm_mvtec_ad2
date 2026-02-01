@@ -4,8 +4,6 @@
 
 AnomalyVFM is a high-performance anomaly detection system that integrates LoRA (Low-Rank Adaptation) with DINOv2-ViT-Base. Through comprehensive experiments on the MVTec-AD2 dataset, v1.1 has been established as the optimal solution.
 
-> 🇯🇵 **Japanese version available**: [README_JP.md](README_JP.md)
-
 ## 🏆 **v1.1 Complete Version Features**
 
 - ✅ **Proven Best Performance**: Top performer from 4-version experimental study
