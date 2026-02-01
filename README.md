@@ -1,4 +1,4 @@
-# AnomalyVFM to MVTec-AD2 v1.1 - Vision Foundation Model for Anomaly Detection
+# AnomalyVFM Applied to MVTec-AD2 v1.1 - Vision Foundation Model for Anomaly Detection
 
 **High-performance anomaly detection system using DINOv2 + LoRA on MVTec-AD2 dataset**
 
